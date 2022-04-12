@@ -2,7 +2,7 @@
 
 框架：Node.js / Express.js.   
 資料庫：使用MongoDB Atlas https://www.mongodb.com/docs/atlas/getting-started/     
-(使用username及password操作).   
+(使用username及password操作)   
 
 1. API新增資料
 ![image](demo/insert.png)
